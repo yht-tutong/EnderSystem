@@ -305,7 +305,7 @@ class UserManager:
     
     def read_user_files(self):
         if not path.exists('C:/Users/Public/EnderDOS/EnderDOS_user.txt'):
-            with open('C:/Users/Public/EnderDOS/EnderDOS_user.txt, 'w') as f:
+            with open('C:/Users/Public/EnderDOS/EnderDOS_user.txt', 'w') as f:
                 pass
         temp = ender_dos.detect_config('EnderDOS_user.txt')
         try:
