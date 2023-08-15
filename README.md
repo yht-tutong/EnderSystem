@@ -23,24 +23,24 @@
 
 -----------------------------------
 使用方法：
-方法一(不太推荐)：
+1. 方法一(不太推荐)：
     (容易下载失败或下载时间过长，但是打开看看也行，因为这个耗费了作者不少时间)
-    1.下载EnderDOS_SETUP_v1.1.exe
-    2.运行EnderDOS_SETUP_v1.1.exe
-方法二(不推荐)：
-    1.下载EnderDosSystem_v.1.2.exe
-    2.下载modify_config.exe
-    3.运行modify_config.exe
-    4.运行EnderDosSystem_v.1.2.exe
-方法三(推荐，这个程序包含了所有有可能遇到的程序)：
-    1.下载Ender_setup.exe
-    2.安装Ender_setup.exe
-    3.打开安装文件夹，运行modify_config.exe
-    4.打开程序的快捷方式
+    1. 下载EnderDOS_SETUP_v1.1.exe
+    2. 运行EnderDOS_SETUP_v1.1.exe
+2. 方法二(不推荐)：
+    1. 下载EnderDosSystem_v.1.2.exe
+    2. 下载modify_config.exe
+    3. 运行modify_config.exe
+    4. 运行EnderDosSystem_v.1.2.exe
+3. 方法三(推荐，这个程序包含了所有有可能遇到的程序)：
+    1. 下载Ender_setup.exe
+    2. 安装Ender_setup.exe
+    3. 打开安装文件夹，运行modify_config.exe
+    4. 打开程序的快捷方式
    
 遇到问题解决办法(提示运行修复程序或者未正确安装时)：
-    1.下载EnderDos_diagnostics.exe
-    2.运行EnderDos_diagnostics.exe
+    1. 下载EnderDos_diagnostics.exe
+    2. 运行EnderDos_diagnostics.exe
 
 不懂的话，看视频->[视频](我是网址)
 
