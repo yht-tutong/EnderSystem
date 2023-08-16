@@ -42,7 +42,7 @@
     1. 下载EnderDos_diagnostics.exe
     2. 运行EnderDos_diagnostics.exe
 
-不懂的话，看视频->[视频](我是网址)
+不懂的话，看视频->[视频](https://www.bilibili.com/video/BV1gu4y197yZ)
 
 -----------------------------------
 **功能**
