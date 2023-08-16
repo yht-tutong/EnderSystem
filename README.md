@@ -42,7 +42,7 @@
     1. 下载EnderDos_diagnostics.exe
     2. 运行EnderDos_diagnostics.exe
 
-不懂的话，看视频->[视频](https://www.bilibili.com/video/BV1gu4y197yZ)
+不懂的话，看视频->[什么?一个六年级学生用半个月做出了一个"系统"!](https://www.bilibili.com/video/BV1gu4y197yZ/?share_source=copy_web&vd_source=9fec957d0e5e4f91d1da2ac1b49ff0e8)
 
 -----------------------------------
 **功能**
